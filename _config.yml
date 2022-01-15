@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: js/packages/canyd-machine-ui
+source: js/packages/candy-machine-ui
 incremental: false
 highlighter: rouge
 gist:
